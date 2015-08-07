@@ -27,7 +27,7 @@ function [relTx,sig_recon,N_samps] = LargeDynRangeRecon(input_ims,mask,v,cmplx_n
 %   Date: 7th August 2015
 %
 %   This code is free under the terms of the MIT license. Please cite
-%   Padormo et al. MRM (2015), early view in any published work.
+%   Padormo et al. MRM (2015) doi:10.1002/mrm.25884 in any published work.
 %
 %%
 
